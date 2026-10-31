@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "25.1"
+DATE = "14:30:00  October 22, 2026"
+
+# Revisions
+
+PROJECT_REVISION = "MIPS_Single_Cycle_Cpu"
